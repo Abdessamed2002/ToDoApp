@@ -23,14 +23,6 @@ In this latest version of our app, we've revamped the way our Telegram bot inter
 
 ### Get Started!
 Ready to experience the future of task management? Follow these simple steps to get started:
-1. **Clone the Repository**: `git clone https://github.com/Abdessamed2002/Bot-ToDoApp.git`
-2. **Install Dependencies**: `npm install node-telegram-bot-api`
-3. **Configure the Bot**: Set up your Telegram bot and configure the webhook URL to point to your backend PHP file.
-4. **Run the App**: `npm start`
-5. **Start Managing Tasks**: Add, update, or delete tasks through the Telegram bot interface and watch as they seamlessly sync across all your devices.
-
-
-
 
 **1) create you're own bot and get the token from the botFather**
 
