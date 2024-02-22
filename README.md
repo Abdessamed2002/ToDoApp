@@ -89,7 +89,7 @@ Turn of the bot
 ctrl + c
 ```
 
-now go to the app and make some tasks like this : 
+### now go to the app and make some tasks like this : 
 ![cap](https://github.com/Abdessamed2002/ToDoAppBot/assets/157251900/b3d2fe18-45a5-4a90-8975-2bebe8eedd37)
 
 # AND FINALY THAT WOULD BE THE RESULT
