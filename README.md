@@ -1,7 +1,7 @@
 ![1](https://github.com/HassanDev13/factory/assets/48941486/8304ba0b-af52-4d36-8fee-8dd95901aee4)
 
 # Fire's up on our Telegram Bot 🔥🔥
-it's the finall version of our Telegram Bot API integrated in a todo App, take a look on how 
+it's the finall version of our Telegram Bot API integrated in a todo App, take a look on. 
 
 ## Welcome again in our ToDo App!
 
