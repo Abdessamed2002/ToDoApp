@@ -52,7 +52,7 @@ git init
 
 Clone the bot repository
 ```bash
-git clone https://github.com/Abdessamed2002/Bot-ToDoApp.git
+git clone https://github.com/Abdessamed2002/ToDoApp.git
 ```
 
 Install node modules
